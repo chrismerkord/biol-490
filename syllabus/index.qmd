@@ -1,0 +1,263 @@
+---
+title: "Course Syllabus"
+format:
+  html:
+    toc: true
+    page-layout: full
+  typst:
+    toc: false
+    logo:
+      width: 1cm
+      location: right-bottom
+      padding-right: 1cm
+      padding-bottom: 0.5cm
+      alt: Logo
+---
+
+BIOL 490 Field Ornithology — Summer 2026
+
+Updated 2026-04-08
+
+## Instructor
+
+Dr. Chris Merkord, Associate Professor, Department of Biosciences, Minnesota State University Moorhead
+
+See D2L for email contact information, office hours, and meeting scheduling.
+
+## Course Description
+
+This course provides intensive training in the field identification and ecology of birds, with a primary emphasis on visual and auditory identification of more than 150 breeding and migratory species occurring in Minnesota and North Dakota.
+
+Prerequisites: none.
+
+Credits: 4
+
+### Class Meetings
+
+-   Dates: May 20, 2026
+-   Days: Monday, Tuesday, Wednesday, Thursday Friday
+-   Time: 6:30-10:20 AM
+-   Location
+    -   The first class meets in Hagen Hall 410
+    -   Subsequent classes meet at the Regional Science Center (RSC) or Hagen Hall (varies)
+    -   Students must arrange their own transportation to the RSC. This is usually accomplished by carpooling from campus. Students who wish to take the course but do not have transportation should contact the instructor to ask about options. Usually something can be arranged.
+-   See the Class Schedule page for weekly topics, lab activities, and exam dates. See D2L for assignment deadlines.
+
+### Communicating with the instructor
+
+All email correspondence to course instructors much originate from your university email account, have your full name in the body of the email, and contain the course number “BIOL 490” in the subject line. E-mails not meeting these requirements may not be recognized by the instructor’s email filter and thus may not be answered. The easiest way to meet these requirements is to use the email function in D2L (the envelope icon at the top of the page).
+
+I generally answer messages within 24 hours, Monday through Friday 9 AM-5 PM (except holidays). when other circumstances arise, for example when I am traveling for a conference or travel course, the time will be longer. Those situations will be announced on D2L ahead of time.
+
+I expect students to check D2L and their university email address once per day.
+
+### Required Texts
+
+To be determined. Probably:
+
+-   Sibley DA. 2016. *The Sibley Field Guide to Birds of Eastern North America: Second Edition.* Knopf. ISBN: 978-0307957917
+
+-   Howel SNG, Sullivan B. 2018. Peterson Guide To Bird Identification―in 12 Steps. Mariner Books. ISBN: 978-1328662064
+
+-   Lab manual, for sale at the beginning of the course.
+
+### Course Objectives/Student Learning Outcomes
+
+By the end of this course, students will be able to:
+
+1.  Identify common bird species of the Upper Midwest / Great Plains using visual and auditory cues.
+2.  Apply standard bird identification techniques based on morphology, behavior, habitat, and vocalizations.
+3.  Use field equipment and tools (e.g., binoculars, field guides, GPS, eBird) to locate, identify, and document birds.
+4.  Conduct basic ornithological field methods, including point counts, transect surveys, and nest searching.
+5.  Accurately record field observations and metadata in a structured field notebook.
+6.  Collect, manage, and summarize ecological data obtained during field activities.
+7.  Describe key concepts in avian ecology, including habitat use, migration, breeding behavior, and species interactions.
+8.  Explain major threats to bird populations and principles of avian conservation and management.
+9.  Demonstrate safe and ethical practices while working in field environments and with wildlife.
+10. Interpret patterns in bird occurrence and behavior in relation to habitat and environmental conditions.
+11. Progressively improve field skills over time, including identification accuracy, efficiency, and data quality.
+
+### Outline of Major Content Areas
+
+1.  Bird Topography and External Anatomy
+    -   Standard terminology (crown, nape, primaries, tertials, etc.)
+    -   Functional morphology (bill, wing, and leg adaptations)
+    -   Sex and age differences in plumage
+2.  Bird Identification (Field ID)
+    -   Visual identification (shape, size, behavior, habitat)
+    -   Plumage patterns and molt cycles
+    -   Distinguishing similar species (e.g., sparrows, flycatchers)
+    -   Use of field guides and apps (Merlin, eBird)
+3.  Bird Vocalizations
+    -   Song vs. call structure and function
+    -   Learning common regional vocalizations
+    -   Mnemonics and introduction to sonograms
+    -   Acoustic monitoring basics
+4.  Avian Ecology
+    -   Habitat use and niche differentiation
+    -   Migration strategies and flyways
+    -   Breeding ecology (territoriality, mating systems, nesting)
+    -   Food webs and trophic roles
+5.  Field Methods in Ornithology
+    -   Point counts and transect surveys
+    -   Mist netting and bird banding basics
+    -   Nest searching and monitoring protocols
+    -   Standardized survey methods (e.g., Breeding Bird Survey)
+6.  Data Collection and Field Notebooks
+    -   Recording effort, weather, and metadata
+    -   GPS and geospatial tools (ArcGIS Field Maps)
+    -   Data quality and repeatability
+    -   Ethical data collection
+7.  Avian Conservation and Management
+    -   Major threats (habitat loss, climate change, invasive species)
+    -   Conservation planning and policy
+    -   Species of concern in the Upper Midwest / Great Plains
+    -   Role of agencies (e.g., U.S. Fish and Wildlife Service)
+8.  Regional Avifauna (MN/ND Focus)
+    1.  Common breeding species
+    2.  Migratory species (spring/fall)
+    3.  Habitat-specific communities (prairie, wetland, forest, urban)
+9.  Field Safety and Ethics
+    1.  Minimizing disturbance
+    2.  Field hazards (weather, ticks, terrain)
+    3.  Ethical handling practices (IACUC context)
+10. Birding as a Skill and Career Pathway
+    1.  Professional vs. recreational birding
+    2.  Citizen science contributions
+    3.  Careers in wildlife biology and ornithology
+    4.  Working with agencies and NGOs
+11. Technology in Ornithology
+    1.  GPS/GIS applications
+    2.  Remote sensing for habitat analysis
+    3.  Automated recording units (ARUs)
+    4.  Data platforms (eBird, iNaturalist)
+12. Advanced topics in field identification, possibly including:
+    a.  Raptor Identification and Ecology
+        -   Flight silhouettes and behavior
+        -   Hunting strategies
+        -   Seasonal movements
+    b.  Waterfowl and Wetland Birds
+        -   Identification of ducks, geese, and swans
+        -   Wetland ecology and management
+        -   Migration timing and habitat use
+    c.  Shorebird Identification and Migration
+        -   Challenging ID groups (peeps, sandpipers)
+        -   Stopover ecology
+        -   Mudflat and shoreline habitats
+    d.  Nocturnal Birds
+        -   Owls and nightjars
+        -   Vocalization-based identification
+        -   Nocturnal survey methods
+13. Advanced topics in avian biology, possibly including:
+    a.  Bird Behavior
+        -   Foraging strategies
+        -   Territoriality
+        -   Courtship and mating systems
+        -   Anti-predator behavior
+    b.  Migration and Navigation
+        -   Orientation mechanisms (sun compass, geomagnetism)
+        -   Stopover ecology
+        -   Phenology and climate impacts
+    c.  Climate Change and Bird Distributions
+        -   Range shifts
+        -   Phenological mismatches
+        -   Long-term monitoring data
+    d.  Urban Ornithology
+        -   Birds in human-dominated landscapes
+        -   Adaptation to urban environments
+        -   Conservation challenges in cities
+    e.  Avian Physiology
+        -   Thermoregulation
+        -   Energetics of flight
+        -   Molt and feather maintenance
+    f.  Taxonomy and Systematics
+        -   Major bird orders and families
+        -   Evolutionary relationships
+        -   Modern phylogenetics and classification changes
+
+## Course Policies
+
+### Instructional Strategies
+
+-   Daily field-based instruction emphasizing active, hands-on learning
+-   Field-based data collection and analysis
+-   Applied field exercises (e.g., surveys, habitat assessment, nest searching)
+-   Structured field notebook practice for recording observations and metadata
+-   Repeated, cumulative species identification practice and assessment (visual and auditory)
+-   Instructor-guided field demonstrations of methods and techniques
+-   Use of professional tools and platforms (eBird submission, GPS/ArcGIS Field Maps, field guides)
+-   Skills build progressively across the course (identification, methods, data use)
+-   Learning from professionals working in the field
+-   Assigned background readings completed outside of class
+-   Instructor-prepared lecture slides reviewed independently
+-   Regular quizzes administered through D2L to reinforce understanding
+
+### Technology
+
+The following technology will be required in this course:
+
+1.  **D2L.** This is the primary method the instructor will use to communicate announcements to the class, and the method of delivery for quizzes and assignments in lecture and lab, as well as posting of grades. Students may want to turn on notifications in D2L and to install the Pulse app on their mobile device, to make receiving notifications easier.
+
+2.  **Email.** MSUM email is the [OFFICIAL communication method for Minnesota State University Moorhead](https://www.mnstate.edu/about/policies-procedures/list/student-email/ "OFFICIAL communication method for Minnesota State University Moorhead"). This is the primary method the instructor will use to contact you with private messages, for example about your assignments or grades.
+
+    For information about your MSUM email including login information, setup on computers and mobile devices, and multi-factor authentication, see this Knowledge Base page: <https://support.mnstate.edu/TDClient/297/Portal/KB/?CategoryID=1198>
+
+3.  **Microsoft Office 365.** Office 365 is a collection of Microsoft applications in cloud-based services allowing users to access a catalog of software using any web browser on virtually any device as long as an Internet connection is available. There are no installations, no updates, and nothing required from the user other than logging into the service. Lab experiments and group project assignments will necessitate the use of some of these products such Word, PowerPoint, and Excel for creating and sharing documents. This page has instructions for logging on from any computer including campus computer labs, and for installing Office 365 on your personal device: <https://support.mnstate.edu/TDClient/297/Portal/KB/ArticleDet?ID=4485>
+
+4.  **eBird** and **Merlin** apps. Published by the Cornell Lab of Ornithology. These apps and their related websites offer tools for identifying and recording bird observations.
+
+### Grades and Assessment
+
+Grades will be assigned using an A, B, C, D, F scale based on the percentage of total points earned, as follows:
+
+-   A 90–100 %
+-   B 80–89.99 %
+-   C 70–79.99 %
+-   D 60–69.99 %
+-   F less than 60 %
+
+## University Policies
+
+The following policies are established by MSUM and the Minnesota State system and updated slightly where appropriate to be specific to this course.
+
+### Rules and Expectations of Conduct
+
+Academic Dishonesty. Cheating or plagiarism on any assignment, paper, or exam will result in a grade of zero on that work, and a report to the college administration. A second incidence of cheating will result in a failing grade for the course. See the MSUM student handbook online, <http://www.mnstate.edu/sthandbook/scc/definitions.cfm>, for definitions of cheating and plagiarism. If you aren’t sure about what is permissible, the best thing is to ask.
+
+Examples of plagiarism include: copying text from the internet, a book, or some other source, for example on a writing assignment or exam.
+
+### Attendance Policy
+
+The MSUM Student Absence Policy can be found online at <https://www.mnstate.edu/policies/absences.aspx>
+
+Try not to miss class because we will be doing activities and having discussions most of the time, and these experiences are almost impossible to make up or recreate outside of class.
+
+In the case of extended illnesses or other extreme situations, please schedule a meeting to make special arrangements regarding the following policies.
+
+### Academic Progress Checks
+
+During the semester (earlier if necessary), I will enter point in time course progress into the campus Early Alert System for all students in this class. These progress checks are an opportunity to connect you with a support staff member who can offer additional support and suggest resources if you need assistance. Support staff will reach out to you directly via email, call, or text if there are any concerns.
+
+### Accessibility Statement
+
+Minnesota State University Moorhead (MSUM) is committed to providing equitable access to learning opportunities for all students and strives to make courses inclusive and accessible in accordance with sections 504 and 508 of the 1973 Rehabilitation Act and the Americans with Disabilities Act (ADA). The University will make reasonable accommodations for students with documented disabilities.
+
+Accessibility Resources (AR) is available to facilitate a range of academic support services and accommodations for students with disabilities. If you have a disability, you can request assistance by contacting AR at 218-477-2167 (voice), 218-477-2420 (fax) or [accessibility\@mnstate.edu](mailto:accessibility@mnstate.edu) (email). Once eligibility has been determined, students register with AR every semester to activate their approved accommodations. Although a student may request an accommodation at any time, it is best to initiate the application process at least four weeks before a student wishes to receive an accommodation. Students may begin the accommodation process by submitting a Request for Accommodations form online at <https://www.mnstate.edu/student-life/student-services/accessibility/request-accommodations/form/> or by contacting Accessibility Resources.
+
+The Director of Accessibility Resources, Chuck Eade, serves as MSUM’s ADA Coordinator for students. He can be reached at [Charles.Eade\@mnstate.edu](mailto:Charles.Eade@mnstate.edu). Additional information is available on the AR website: [http://www.mnstate.edu/accessibility](https://nam02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.mnstate.edu%2Faccessibility&data=02%7C01%7Ccharles.eade%40mnstate.edu%7C7497efa1cdcf4b6d50aa08d7cf46ede3%7C5011c7c60ab446ab9ef4fae74a921a7f%7C0%7C0%7C637205775849405764&sdata=TjCP04mSmSEhrAk0ImJqR3sh1B5fJTEKj3hDWT59Wwk%3D&reserved=0).
+
+### Sexual Violence Prevention Statement
+
+Acts of sexual violence are intolerable. MSUM expects all members of the campus community to act in a manner that does not infringe on the rights of others. We are committed to eliminating all acts of sexual violence.
+
+MSUM faculty and staff are concerned about the well-being and development of our students. We are obligated to share information with the MSUM Title IX Coordinator in certain situations to help ensure that the students’ safety and welfare is being addressed, consistent with the requirements of the law. These disclosures include but are not limited to reports of sexual assault, relationship violence, and stalking.
+
+If you have experienced or know someone who has experienced sexual violence, services and resources are available. You may also choose to file a report. For further information, contact Lynn Peterson, Title IX Coordinator, [petrsnly\@mnstate.edu](mailto:petrsnly@mnstate.edu); 218-477-2967, or Ashley Atteberry, Director of Student Conduct & Resolution; [ashley.atteberry\@mnstate.edu](mailto:ashley.atteberry@mnstate.edu), 218-477-2174; both located in Flora Frick 153. Additional information is available at: [www.mnstate.edu/titleix](http://www.mnstate.edu/titleix)
+
+### Bias Incident Statement
+
+A bias incident is an act of bigotry, harassment, or intimidation that is motivated in whole or in part by bias based on an individual’s or group’s actual or perceived race, color, creed, religion, national origin, sex, gender, age, marital status, disability, public assistance status, veteran status, sexual orientation, or familial status. If you are a student who has experienced or witnessed a hate or bias incident, we want to address the incident and provide you with resources. Contact the Campus Diversity Officer, Jered Pigeon, [jered.pigeon\@mnstate.edu](mailto:jered.pigeon@mnstate.edu) 218-477-2047, 114 CMU, or Dean of Students, Kara Gravley-Stack, [kara.gravleystack\@mnstate.edu](mailto:kara.gravleystack@mnstate.edu) 218-477-4222, 153 Flora Frick Hall
+
+### Building Emergency Plan
+
+Building floor plans showing emergency exit routes, fire extinguisher locations and fire alarm pull stations are conspicuously located in classrooms, labs, conference rooms, departmental main offices and residence halls. The Emergency Preparedness Guides (flip style booklets) are located with the maps. Please review the floor plans as well as the guide so you know how to respond in an emergency situation to help protect yourself and others. If you have questions, please contact Ryan Nelson, Director of Public Safety, at ryan.nelson\@mnstate.edu or 218-477-5869. <https://www.mnstate.edu/publicsafety/>

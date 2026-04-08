@@ -1,0 +1,48 @@
+project:
+  type: website
+
+brand: tlm-styles/_brand.yml
+
+resources:
+  - "**/*.pdf"
+
+website:
+  title: "BIOL 490 Field Ornithology"
+  navbar:
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: syllabus/index.qmd
+        text: Syllabus
+      - href: schedule/index.qmd
+        text: Schedule
+      - href: index.qmd#learning-modules
+        text: Learning Modules
+
+  sidebar:
+    style: "docked"
+    search: true
+    contents: 
+      - href: index.qmd
+        text: Home
+      - href: syllabus/index.qmd
+      - href: schedule/index.qmd
+
+format:
+  html:
+    toc: true
+    theme: 
+      - default
+      - tlm-styles/tlm-theme.scss
+      - styles.scss
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://use.typekit.net/tag1lvz.css">
+
+execute:
+  echo: false
+  warning: false
+  message: false
+  cache: true
+  freeze: auto

@@ -1,0 +1,148 @@
+---
+title: "BIOL 490 Field Ornithology"
+---
+
+## Course Overview
+
+This course provides intensive training in the field identification and ecology of birds, with a primary emphasis on visual and auditory identification of more than 150 breeding and migratory species occurring in Minnesota and North Dakota. 
+
+Students will develop proficiency in recognizing birds by sight, song, and call, while gaining a deeper understanding of avian ecology, taxonomy, morphology, habitat use, migration, and breeding systems. 
+
+Most class meetings will consist of outdoor field trips, with daily meetings held at the Regional Science Center (RSC) unless otherwise noted. Instruction will be highly experiential and field-based. Activities may include standardized survey methods (e.g., point counts and transects), nest searching, data collection and management, and use of ArcGIS Field Maps for spatial data recording. Depending on conditions and permitting, students may also participate in the capture and handling of songbirds under appropriate supervision. Students will learn directly from area biologists and researchers actively engaged in avian research and conservation. 
+
+Binoculars and necessary field equipment will be provided. Students must come prepared with suitable outdoor clothing and footwear; rubber boots will be available if needed. 
+
+This course is well-suited for students pursuing careers in biology, environmental science, wildlife or natural resources management, and conservation, as well as for those seeking advanced bird identification skills and a deeper understanding of avian life. No prior experience or coursework is required.
+
+## Course Information
+
+<dl class="course-info">
+
+<dt>Instructor</dt>
+
+<dd>Chris Merkord</dd>
+
+<dt>Institution</dt>
+
+<dd>Minnesota State University Moorhead</dd>
+
+<dt>Term</dt>
+
+<dd>Summer 2026</dd>
+
+<dt>Delivery</dt>
+
+<dd>In-person lecture</dd>
+
+</dl>
+
+## Course Documents
+
+::::::::::: {.grid .gap-3}
+::::::: {.g-col-12 .g-col-sm-4}
+:::: {.card .h-100}
+::: card-header
+Syllabus
+:::
+::: card-body
+##### Course Syllabus {.card-title}
+
+Course policies, grading, materials, and expectations.
+
+[Syllabus](syllabus/)
+:::
+:::::
+::::::
+
+:::::: {.g-col-12 .g-col-sm-4}
+::::: {.card .h-100}
+::: card-header
+Schedule
+:::
+::: card-body
+##### Class Schedule {.card-title}
+
+Daily topics, readings, and links.
+
+[Schedule](schedule/)
+:::
+::::
+:::::::
+:::::::::::
+
+## Learning Modules
+
+::::::::::: {.grid .gap-3}
+:::::: {.g-col-12 .g-col-sm-4}
+::::: {.card .h-100}
+::: card-header
+Module 1
+:::
+::: card-body
+##### Coming Soon {.card-title}
+
+Coming Soon
+
+[Module 1](module-1/)
+:::
+::::: 
+::::::
+
+::::::::::: {.grid .gap-3}
+:::::: {.g-col-12 .g-col-sm-4}
+::::: {.card .h-100}
+::: card-header
+Module 1
+:::
+::: card-body
+##### Coming Soon {.card-title}
+
+Coming Soon
+
+[Module 1](module-1/)
+:::
+::::: 
+::::::
+
+:::::: {.g-col-12 .g-col-sm-4}
+::::: {.card .h-100}
+::: card-header
+Module 2
+:::
+::: card-body
+##### Coming Soon {.card-title}
+
+Coming Soon
+
+[Module 1](module-1/)
+:::
+::::: 
+::::::
+
+:::::: {.g-col-12 .g-col-sm-4}
+::::: {.card .h-100}
+::: card-header
+Module 3
+:::
+::: card-body
+##### Coming Soon {.card-title}
+
+Coming Soon
+
+[Module 1](module-1/)
+:::
+::::: 
+::::::
+:::::::::::
+
+## For Enrolled Students
+
+-   Assignment deadlines and submissions are managed through **D2L**
+
+-   Grades, feedback, and announcements will **not** be posted on this site
+
+-   This site is updated regularly—check links before each class
+
+## Accessibility & Use
+
+All materials on this site are provided for instructional use by enrolled students. If you encounter accessibility issues or broken links, contact the instructor.
