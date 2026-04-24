@@ -1,0 +1,32 @@
+---
+title: "Class Schedule"
+format:
+  html:
+    toc: true
+    page-layout: full
+---
+
+Spring 2026 class schedule.
+
+VERY preliminary at this stage. Subject to change up to course start date.
+
+## Schedule
+
+| Day | Date | Meeting Location | Field Activity | Readings/Assignment |
+|----|----|----|----|----|
+| Wednesday | May 20, 2026 | Hagen 410 | Field equipment basics; urban birds |  |
+| Thursday | May 21, 2026 | Hagen 410 | Migrant songbirds; Red River parks | Bird ID chapters 1-4 |
+| Friday | May 22, 2026 | Hagen 410 | Migrant songbirds; Forest River and Orchard Glen Parks, Fargo | Bird ID chapters 5-8 |
+| Monday | May 25, 2026 (Memorial Day - No Class) |  |  | Bird ID chapters 9-12 |
+| Tuesday | May 26, 2026 | Hagen 410 | Shorebirds and waterfowl; Fargo treatment ponds, American Crystal Sugar plant |  |
+| Wednesday | May 27, 2026 | RSC | Breeding forest and grassland birds; walking RSC |  |
+| Thursday | May 28, 2026 | RSC | Breeding forest and grassland birds; walking Buffalo River State Park |  |
+| Friday | May 29, 2026 | RSC | Prairie chickens |  |
+| Monday | June 1, 2026 | RSC | Point count methodology | Bird vocalizations |
+| Tuesday | June 2, 2026 | RSC | Grassland bird specialists; prairie-chickens; Bluestem or Felton Prairies | Survey methods |
+| Wednesday | June 3, 2026 | RSC | Nest searching |  |
+| Thursday | June 4, 2026 | RSC | Bird banding |  |
+| Friday | June 5, 2026 | RSC | TBD |  |
+| Monday | June 8, 2026 | RSC | Eastern forest birds; Tamarack National Wildlife Refuge |  |
+| Tuesday | June 9, 2026 | Hagen 410 | Waterfowl; North Ottawa Impoundment |  |
+| Wednesday | June 10, 2026 | RSC | Review day / Field Skills Assessment |  |
