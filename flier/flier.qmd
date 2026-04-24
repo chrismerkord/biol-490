@@ -1,0 +1,41 @@
+---
+title: "BIOL 490 Field Ornithology"
+edition: |
+   Summer 2026 \
+   MSUM
+hero-image: 
+  path: "birding.jpg"
+  caption: "Experiential Learning"
+publication-info: |
+  \ 
+  MSUM Department of Biosciences. \
+  For more info: <mailto:chris.merkord@mnstate.edu>
+format:
+  dept-news-typst:
+    page-numbering: false
+---
+
+# Learn Birds This Summer
+
+Spend three weeks learning birds through daily field-based activities focused on identification and survey methods.
+
+Students will practice bird ID, surveys, field notebooks, eBird, GPS/ArcGIS, and wildlife data collection. No prior experience is required. Field equipment is provided.
+
+Excellent preparation for undergraduate research, summer internships, and wildlife field jobs.
+
+Counts toward restricted elective requirements for Biology majors and upper-level requirements for all majors.
+
+Register now to help ensure the course runs.
+
+[Course details and registration info](https://chrismerkord.github.io/biol-490/recruitment.html)
+
+::: {.article}
+## Why enroll now?
+
+- Almost entirely field-based
+- Learn birds of Minnesota and North Dakota
+- Gain resume-building field experience
+- Great way to spend three weeks outdoors
+- Open to students with no prior experience
+:::
+
