@@ -1,0 +1,96 @@
+---
+title: "Resources"
+format: html
+---
+
+Welcome to the resources page. This page contains links to various resources used in the class.
+
+For now, this page is under construction. Please check back later for updates.
+
+## Bird List
+
+List of birds students will learn (subject to change).
+
+| Species | Identify visually | Vocalizations to know |
+|----|----|----|
+| Canada Goose | Yes | Honk |
+| Trumpeter Swan | Yes |  |
+| Wood Duck | M only |  |
+| Blue-winged Teal | M only |  |
+| Mallard | M only |  |
+| Hooded Merganser | M only |  |
+| Ring-necked Pheasant | Yes | Keek-kuk |
+| Greater Prairie-Chicken | Yes | Ooh-loo-woo |
+| Wild Turkey | Yes | Gobble |
+| Rock Pigeon | Yes |  |
+| Mourning Dove | Yes | Song |
+| Black-billed Cuckoo | Yes | Song |
+| Chimney Swift | Yes | Twitter |
+| Ruby-throated Hummingbird | Yes |  |
+| Sora | Yes | Whinny; Ooit |
+| Sandhill Crane | Yes | Long Call (duet) |
+| Killdeer | Yes | Song (Kill-deer or Piddi-deer) |
+| Upland Sandpiper | Yes | Song |
+| Marbled Godwit | Yes |  |
+| Spotted Sandpiper | Yes |  |
+| Great Blue Heron | Yes |  |
+| Turkey Vulture | Yes |  |
+| Northern Harrier | M and F |  |
+| Cooper's Hawk | Yes |  |
+| Red-tailed Hawk | Yes |  |
+| Great Horned Owl | Yes |  |
+| Yellow-bellied Sapsucker | M and F | Drum |
+| Red-bellied Woodpecker | M and F | Kwirr |
+| Downy Woodpecker | M and F | Whinny |
+| Hairy Woodpecker | M and F | Rattle |
+| Pileated Woodpecker | Yes | Whinny |
+| Northern Flicker (Yellow-shafted) | Yes | Kleer |
+| Eastern Wood-Pewee | Yes | Day Song |
+| Least Flycatcher | Yes | Song |
+| Eastern Phoebe | Yes | Song (typical) |
+| Great Crested Flycatcher | Yes | Breet |
+| Western Kingbird | Yes |  |
+| Eastern Kingbird | Yes | Tick-it Series |
+| Yellow-throated Vireo | Yes | Song |
+| Warbling Vireo (Eastern) | Yes | Song |
+| Red-eyed Vireo | Yes | Song |
+| Blue Jay | Yes | Jeer \[various types\] |
+| American Crow | Yes | Caw \[various types\] |
+| Black-capped Chickadee | Yes | Whistled Song (typical version); Chick-a-dee Call |
+| Tree Swallow | Yes |  |
+| Bank Swallow | Yes |  |
+| Barn Swallow | Yes |  |
+| Cliff Swallow | Yes |  |
+| White-breasted Nuthatch (Eastern) | Yes | Slow Song; Fast Song; Yank (typical) |
+| House Wren | Yes | Song |
+| Sedge Wren | Yes | Song |
+| European Starling | Yes |  |
+| Gray Catbird | Yes | Mew |
+| Brown Thrasher | Yes | Song |
+| Eastern Bluebird | M only |  |
+| American Robin | Yes | Song |
+| Cedar Waxwing | Yes | Seet |
+| House Sparrow | Yes |  |
+| House Finch | M only |  |
+| American Goldfinch | Yes | Flight call |
+| Grasshopper Sparrow | Yes | Song |
+| Chipping Sparrow | Yes | Song |
+| Clay-colored Sparrow | Yes | Song |
+| Vesper Sparrow | Yes |  |
+| LeConte's Sparrow | Yes | Song |
+| Savannah Sparrow | Yes | Song |
+| Song Sparrow | Yes | Song |
+| Yellow-headed Blackbird | M only |  |
+| Bobolink | M only | Song |
+| Western Meadowlark | Yes | Song |
+| Baltimore Oriole | M only | Song \[various types\] |
+| Red-winged Blackbird | M and F | Male song |
+| Brown-headed Cowbird | M only | Gurgle Song |
+| Common Grackle | M only |  |
+| Common Yellowthroat | M only | Song (triplet series) |
+| American Redstart | M and F | Song (First-category); Song (Second-category) |
+| Yellow Warbler (Northern) | Yes | Song (First-category) |
+| Scarlet Tanager | Yes | Song |
+| Northern Cardinal | M and F | Song (one simple series); Song (2 simple series) |
+| Rose-breasted Grosbeak | M and F | Song; Eep |
+| Indigo Bunting | M only | Song |
