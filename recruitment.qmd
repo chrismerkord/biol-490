@@ -1,0 +1,149 @@
+---
+title: "BIOL 490 Field Ornithology"
+page-layout: full
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+::::::::: {.hero-home .py-5 .mb-5}
+:::::::: {.container-fluid .px-4 .px-lg-5}
+::::::: {.row .align-items-center .g-4}
+::::: col-lg-6
+# Always wanted to learn birds? Start here.
+
+::: {.lead .mb-4}
+BIOL 490 is a hands-on summer course where you will learn bird
+identification, field observation, ecological skills, and outdoor data
+collection through daily field experiences. No prior birding or biology
+experience is required. Whether you are new to birds or already
+interested in nature, this course is designed to help you build
+confidence, develop practical skills, and experience the natural world
+in a new way.
+:::
+
+::: mb-4
+[View the syllabus](syllabus/){.btn .btn-primary .me-2} [See the
+schedule](schedule/){.btn .btn-outline-primary .me-2} [Browse course
+materials](resources/){.btn .btn-outline-secondary}
+:::
+
+## Why take this course?
+
+-   Beginner-friendly and open to all majors
+-   Learn to identify birds by sight, sound, behavior, and habitat
+-   Build outdoor confidence through guided field experiences
+-   Gain hands-on experience with surveys, notebooks, and field tools
+-   Use binoculars, GPS, eBird, and other real-world tools
+-   Explore careers and opportunities in wildlife, ecology, and
+    conservation
+:::::
+
+::: col-lg-6
+![](images/NMU-Students-Birding-Skye-Haas-2017_07_12-18_54_52-UTC (1).jpg){.img-fluid
+.rounded .shadow-lg}
+:::
+:::::::
+::::::::
+:::::::::
+
+:::::::::: {.container-fluid .px-4 .px-lg-5 .mb-5}
+::::::::: {.row .g-4}
+:::: col-md-4
+::: {.border .rounded-4 .p-4 .h-100}
+## What you will do
+
+-   Learn bird identification in real field settings
+-   Practice observation, surveys, and data collection outdoors
+-   Use binoculars, field guides, apps, and mapping tools
+-   Explore local habitats and observe birds where they live
+:::
+::::
+
+:::: col-md-4
+::: {.border .rounded-4 .p-4 .h-100}
+## What you will learn
+
+-   How to identify birds by sight, sound, behavior, and habitat
+-   Core concepts in bird ecology, migration, and conservation
+-   How field biologists record and interpret observations
+-   Practical outdoor and scientific skills you can use beyond the
+    courses
+:::
+::::
+
+:::: col-md-4
+::: {.border .rounded-4 .p-4 .h-100}
+## Who this course is for
+
+-   Students interested in wildlife, ecology, conservation, or field
+    biology
+-   Students considering environmental careers or graduate study
+-   Students who enjoy nature and want to know birds better
+-   Beginners with curiosity as well as experienced birders seeking
+    growth
+:::
+::::
+:::::::::
+::::::::::
+
+::::::::::: {.container-fluid .px-4 .px-lg-5 .mb-5}
+:::::::::: {.row .align-items-center .g-4}
+::: col-lg-5
+## A course built around active learning
+
+This course is built around learning by doing. Students develop skills
+through guided field experiences, hands-on practice, structured
+activities, and direct observation of birds in real habitats. Each day
+emphasizes active participation, skill growth, and learning through
+experience.
+
+[Meet the instructor](instructor.qmd){.btn .btn-outline-primary}
+:::
+
+:::::::: col-lg-7
+::::::: {.row .g-3}
+::: col-md-6
+![Students collecting data
+outdoors.](images/Screenshot 2026-04-24 084546.png){.img-fluid .rounded
+.shadow-sm}
+:::
+
+::: col-md-6
+![Bird specimens in a vertebrate museum
+collection.](https://heartoflouisiana.com/wp-content/uploads/2024/08/LSU_Birds_Tray_Tropical_Birds_01_1700x1130-1700x660.jpg){.img-fluid
+.rounded .shadow-sm}
+:::
+
+::: col-md-6
+![Students participating in collaborative course
+activities.](images/2.jpg){.img-fluid .rounded .shadow-sm}
+:::
+
+::: col-md-6
+![Ruddy Duck, one of many species we will
+see.](https://naturecanada.ca/wp-content/uploads/2022/04/maleruddyduck-1024x664.jpg){.img-fluid
+.rounded .shadow-sm}
+:::
+:::::::
+::::::::
+::::::::::
+:::::::::::
+
+::: {.container-fluid .px-4 .px-lg-5 .py-4 .mb-4 .bg-light .rounded-4}
+## Ready to learn more?
+
+Start with the syllabus, browse the schedule, or look through recent
+course materials to see what students actually do in this course.
+
+[Open the syllabus](syllabus/){.btn .btn-primary .me-2} [Open the
+schedule](schedule/){.btn .btn-outline-primary .me-2} [View course
+resources](resources/){.btn .btn-outline-secondary}
+
+## Thinking about registering?
+
+Register today! The course is filling up so save your spot now. If it's
+already full, join the waitlist and more spots may be opened.
+
+Not sure if the course is for you? Register now and decide later!
+:::
