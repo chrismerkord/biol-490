@@ -40,7 +40,7 @@ materials](resources/){.btn .btn-outline-secondary}
 :::::
 
 ::: col-lg-6
-![](images/NMU-Students-Birding-Skye-Haas-2017_07_12-18_54_52-UTC (1).jpg){.img-fluid
+![](images/NMU-Students-Birding-Skye-Haas-2017_07_12-18_54_52-UTC%20(1).jpg){.img-fluid
 .rounded .shadow-lg}
 :::
 :::::::
@@ -105,8 +105,8 @@ experience.
 ::::::: {.row .g-3}
 ::: col-md-6
 ![Students collecting data
-outdoors.](images/Screenshot 2026-04-24 084546.png){.img-fluid .rounded
-.shadow-sm}
+outdoors.](images/Screenshot%202026-04-24%20084546.png){.img-fluid
+.rounded .shadow-sm}
 :::
 
 ::: col-md-6
