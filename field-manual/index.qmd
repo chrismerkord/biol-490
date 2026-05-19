@@ -1,5 +1,10 @@
 ---
 title: "Field Manual"
 format: html
+listing:
+  contents:
+    - "*/index.qmd"
+  sort: "sort"
+  type: grid
 ---
 
