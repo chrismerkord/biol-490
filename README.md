@@ -1,4 +1,4 @@
-# BIOL 275 – Biostatistics
+# BIOL 490 – Field Ornithology
 
 Public course website built with Quarto and published via GitHub Pages.
 
