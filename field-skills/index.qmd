@@ -1,0 +1,11 @@
+---
+title: "Field Preparation"
+sort: 3
+listing:
+  contents:
+    - "manual/*.qmd"
+  sort: "sort"
+  type: grid
+  image-placeholder: ../images/placeholder.png
+---
+

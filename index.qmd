@@ -1,5 +1,20 @@
 ---
 title: "BIOL 490 Field Ornithology"
+listing:
+  id: landing-pages
+  contents:
+    - "syllabus/index.qmd"
+    - "schedule/index.qmd"
+    - "field-skills/index.qmd"
+    - "bird-identification/index.qmd"
+    - "habitats/index.qmd"
+    - "field-sites/index.qmd"
+    - "field-methods/index.qmd"
+    - "data-sheets/index.qmd"
+    - "resources/index.qmd"
+  sort: "sort"
+  type: grid
+  image-placeholder: images/placeholder.png
 ---
 
 ## Course Overview
@@ -36,104 +51,10 @@ This course is well-suited for students pursuing careers in biology, environment
 
 </dl>
 
-## Course Documents
+## Course Materials
 
-::::::::::: {.grid .gap-3}
-::::::: {.g-col-12 .g-col-sm-4}
-:::: {.card .h-100}
-::: card-header
-Syllabus
+::: {#landing-pages}
 :::
-::: card-body
-##### Course Syllabus {.card-title}
-
-Course policies, grading, materials, and expectations.
-
-[Syllabus](syllabus/)
-:::
-:::::
-::::::
-
-:::::: {.g-col-12 .g-col-sm-4}
-::::: {.card .h-100}
-::: card-header
-Schedule
-:::
-::: card-body
-##### Class Schedule {.card-title}
-
-Daily topics, readings, and links.
-
-[Schedule](schedule/)
-:::
-::::
-:::::::
-:::::::::::
-
-## Learning Modules
-
-::::::::::: {.grid .gap-3}
-:::::: {.g-col-12 .g-col-sm-4}
-::::: {.card .h-100}
-::: card-header
-Module 1
-:::
-::: card-body
-##### Coming Soon {.card-title}
-
-Coming Soon
-
-[Module 1](module-1/)
-:::
-::::: 
-::::::
-
-::::::::::: {.grid .gap-3}
-:::::: {.g-col-12 .g-col-sm-4}
-::::: {.card .h-100}
-::: card-header
-Module 1
-:::
-::: card-body
-##### Coming Soon {.card-title}
-
-Coming Soon
-
-[Module 1](module-1/)
-:::
-::::: 
-::::::
-
-:::::: {.g-col-12 .g-col-sm-4}
-::::: {.card .h-100}
-::: card-header
-Module 2
-:::
-::: card-body
-##### Coming Soon {.card-title}
-
-Coming Soon
-
-[Module 1](module-1/)
-:::
-::::: 
-::::::
-
-:::::: {.g-col-12 .g-col-sm-4}
-::::: {.card .h-100}
-::: card-header
-Module 3
-:::
-::: card-body
-##### Coming Soon {.card-title}
-
-Coming Soon
-
-[Module 1](module-1/)
-:::
-::::: 
-::::::
-:::::::::::
 
 ## For Enrolled Students
 

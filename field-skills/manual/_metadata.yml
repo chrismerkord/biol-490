@@ -1,0 +1,13 @@
+metadata-files:
+  - ../../_manual.yml
+format: 
+  typst:
+    template-partials:
+      - ../../tlm-styles/typst/partials/page.typ
+    include-in-header:
+      - file: ../../tlm-styles/typst/page-layout.typ
+      - file: ../../tlm-styles/typst/page-layout-header.typ
+short-title: ""
+course-label: ""
+document-context: ""
+footer-logo: "../../tlm-styles/logos/m-symbol-black.png"

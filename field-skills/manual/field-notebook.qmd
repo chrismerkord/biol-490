@@ -1,0 +1,115 @@
+---
+title: "Field Notebook"
+format:
+  html: default
+  typst:
+    columns: 2
+sort: 4
+---
+
+Keeping a field notebook is a long-standing practice in ecology, wildlife biology, and ornithology. Field notes provide a personal record of what you observed, where you observed it, and what you were thinking at the time.
+
+For this course, you will use a small top-spiral field notebook designed for quick note-taking in the field. This notebook is primarily intended for:
+
+- Species lists
+- Basic metadata
+- Identification notes
+- Behavioral observations
+- Quick sketches or maps
+
+This is different from a larger research or ecology notebook, which might contain:
+
+- Detailed measurements
+- Formal data tables
+- Sampling protocols
+- Extended written observations
+- Experimental data
+
+Your field notebook in this course should be lightweight, portable, and easy to use while actively birding.
+
+## Name and Contact Information
+
+Write the following somewhere near the front of your notebook:
+
+- Name
+- Email address
+- Phone number
+- Course name
+
+Field notebooks are easy to lose during travel and field work. A labeled notebook is much more likely to be returned.
+
+## Writing in the Field
+
+Field conditions are often wet, muddy, windy, or cold. Rite in the Rain paper works best with:
+
+- Pencil
+- All-weather pens
+- Specialized field pens
+
+Regular ink pens may stop working or smear when wet.
+
+## Metadata
+
+Each birding location should begin with some basic information, including:
+
+- Locality name
+- State
+- Date
+- Start time
+- End time
+
+You do not need to record highly detailed coordinates in your notebook unless you want to. eBird will automatically store much more detailed location information for most observations.
+
+## Species Lists
+
+Each location should have its own separate species list.
+
+Keeping locations separate makes your notes much more useful later.
+
+Only record birds that you personally observed.
+
+If another student identifies or sees a bird that you did not personally observe, you may still write it down, but clearly note that it was heard from another observer or not personally seen.
+
+Your notebook is a personal scientific record. Future-you should be able to understand exactly what you observed yourself. This is also helpful for adding/removing species to shared eBird checklists afterwards.
+
+## Counts Matter
+
+Even rough estimates of bird numbers are extremely valuable.
+
+For example:
+
+- "1"
+- "2"
+- "about 10"
+- "many"
+- "50+"
+
+## Identification and Behavioral Notes
+
+You are encouraged to record anything that helps you remember or identify birds later, including:
+
+- Plumage details
+- Songs or calls
+- Behavior
+- Habitat
+- Flight style
+- Comparisons to similar species
+
+Some students also like to include:
+
+- Small maps
+- Habitat sketches
+- Drawings of field marks
+- Weather notes
+
+## Final Advice
+
+Good field notes do not need to be neat or artistic. The goal is to create a useful personal record while observations are fresh in your mind.
+
+Field notebooks are most valuable when they are:
+
+- Consistent
+- Organized
+- Honest
+- Written in real time
+- Easy for your future self to interpret

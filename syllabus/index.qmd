@@ -12,6 +12,7 @@ format:
       padding-right: 1cm
       padding-bottom: 0.5cm
       alt: Logo
+sort: 1
 ---
 
 BIOL 490 Field Ornithology — Summer 2026

@@ -1,0 +1,158 @@
+---
+title: "Field Clothing"
+format:
+  html: default
+  typst:
+    columns: 2
+sort: 2
+---
+
+Learning how to dress appropriately for outdoor field work is an important professional skill in ecology, wildlife biology, environmental science, and related fields. Experienced field biologists dress for safety, comfort, changing weather, insects, rough terrain, and long hours outdoors.
+
+In general, field workers prioritize:
+
+- Safety
+- Functionality
+- Comfort
+- Weather protection
+- Durability
+
+Outdoor conditions often feel colder, wetter, windier, muddier, and more insect-heavy than expected. In most situations, being slightly overdressed is better than being underdressed.
+
+## Dressing in Layers
+
+Field workers commonly dress in layers so clothing can be adjusted throughout the day as temperatures and weather conditions change.
+
+A typical setup might include:
+
+- Lightweight shirt
+- Fleece or sweatshirt
+- Rain jacket or windbreaker
+
+Avoid relying heavily on cotton in cold or wet weather, as it absorbs water and dries slowly.
+
+## Clothing
+
+Recommended upper-body clothing:
+
+- Lightweight long-sleeve shirts
+- Breathable fabrics
+- Rain jacket or windbreaker
+
+Long sleeves help protect against:
+- Sun exposure
+- Mosquitoes
+- Ticks
+- Scratches from vegetation
+
+Recommended lower-body clothing:
+
+- Long pants
+- Durable outdoor or hiking pants
+- Quick-drying fabrics
+
+Long pants are strongly recommended in tall grass, wetlands, forests, and brushy habitats.
+
+## Footwear
+
+Field environments often include:
+- Mud
+- Wet grass
+- Standing water
+- Uneven terrain
+
+Shoes used in field work frequently become muddy, wet, stained, and heavily worn. Avoid bringing footwear you are concerned about getting dirty.
+
+Rubber boots are often the best option for protecting footwear from mud and water, especially in wetlands and wet grass.
+
+Recommended footwear:
+
+- Rubber boots
+- Hiking shoes
+- Trail shoes
+- Waterproof footwear
+
+Rubber boots will be provided by the instructor for students who need them.
+
+## Wet Conditions
+
+Morning dew alone can soak shoes and pant legs within minutes.
+
+Experienced field workers often:
+
+- Wear waterproof footwear
+- Bring extra socks
+- Carry rain gear
+
+Jeans are often uncomfortable in wet conditions because they dry slowly.
+
+## Mosquitoes
+
+The most effective mosquito protection is reducing exposed skin.
+
+Recommended:
+
+- Long sleeves
+- Long pants
+- Taller socks
+- Hats
+- Lightweight breathable layers
+
+A bandana or neck gaiter can also help protect the neck from sun and insects. It can also be useful for wiping moisture or cleaning binocular lenses in an emergency.
+
+Insect repellent is often necessary. Avoid using repellents with the chemical DEET because it damages rubber on binoculars and other equipment. Be courteous and step away from other people (and downwind) before applying insect repellent.
+
+## Ticks
+
+Ticks are common in grassy, brushy, and wooded habitats.
+
+Experienced field workers commonly:
+
+- Wear long pants
+- Wear taller socks
+- Tuck pants into socks
+- Use rubber boots when possible
+- Perform tick checks after field work
+
+Rubber boots help reduce tick attachment because ticks have difficulty gripping smooth rubber surfaces.
+
+If wearing shoes instead of rubber boots:
+
+- Tuck pants into socks
+- Apply insect repellent to shoes, socks, and pants
+
+Again, avoid DEET repellents.
+
+Permethrin-treated clothing and gear can be highly effective against ticks and are widely used by field biologists.
+
+## Sun and Heat
+
+Field workers are often exposed to long periods of direct sunlight.
+
+Recommended:
+
+- Hat with brim
+- Sunglasses
+- Sunscreen
+- Lightweight long sleeves
+- Bandana or neck protection
+- Water bottle
+
+Hydration is important even during cool weather.
+
+## Clothing Commonly Avoided in Field Work
+
+Many field workers avoid:
+
+- Sandals
+- Flip-flops
+- Open footwear
+- Clothing that restricts movement
+- Delicate clothing that can be damaged
+- Strong perfumes or scented products
+
+## Final Advice
+
+Experienced field biologists prepare for conditions to be worse than expected.
+
+Being slightly overdressed is usually preferable to being cold, wet, sunburned, or heavily exposed to insects. Proper field clothing improves comfort, safety, focus, and overall field performance.

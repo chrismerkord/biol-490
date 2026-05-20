@@ -1,0 +1,10 @@
+---
+title: "Habitats"
+sort: 5
+listing:
+  contents:
+    - "manual/*.qmd"
+  sort: "sort"
+  type: grid
+  image-placeholder: ../images/placeholder.png
+---

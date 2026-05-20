@@ -1,0 +1,15 @@
+format: 
+  typst:
+    template-partials:
+      - ../../tlm-styles/typst/partials/page.typ
+    include-in-header:
+      - file: ../../tlm-styles/typst/page-layout.typ
+      - file: ../../tlm-styles/typst/page-layout-header.typ
+format-links:
+  - format: typst
+    text: PDF
+    icon: file-pdf
+short-title: ""
+course-label: ""
+document-context: ""
+footer-logo: "../../tlm-styles/logos/m-symbol-black.png"

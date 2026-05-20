@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - images/placeholder.png
 
 brand: tlm-styles/_brand.yml
 
@@ -28,6 +30,13 @@ website:
         text: Home
       - href: syllabus/index.qmd
       - href: schedule/index.qmd
+      - href: field-skills/index.qmd
+      - href: bird-identification/index.qmd
+      - href: habitats/index.qmd
+      - href: field-sites/index.qmd
+      - href: field-methods/index.qmd
+      - href: data-sheets/index.qmd
+      - href: resources/index.qmd
 
 format:
   html:

@@ -1,0 +1,151 @@
+---
+title: "Urban and Suburban Habitats"
+---
+
+## Habitat Overview
+
+Urban and suburban habitats include residential neighborhoods, parks, school campuses, golf courses, stormwater ponds, industrial areas, and commercial developments. Although heavily modified by humans, these areas can support a surprisingly diverse bird community. Birds in urban habitats often take advantage of lawns, ornamental trees and shrubs, bird feeders, buildings, and artificial water sources. Some species thrive in close association with people, while others use urban green spaces as breeding habitat or stopover sites during migration.
+
+## Key Habitat Features
+
+- Dominated by buildings, roads, lawns, and ornamental vegetation
+- Scattered trees and shrubs provide nesting and feeding habitat
+- Stormwater ponds and park wetlands attract waterbirds
+- Bird feeders can concentrate songbirds
+- Habitat edges and fragmented green spaces are common
+- Human activity and noise can affect bird behavior and detectability
+
+## Field Tips
+
+- Early morning is usually best for bird activity and vocalizations
+- Watch overhead for swallows, swifts, gulls, and raptors
+- Check lawns carefully for robins, grackles, and sparrows
+- Large trees in older neighborhoods often support the highest diversity
+- Bird feeders can provide excellent close views for identification
+- Listen for vocalizations before searching visually in dense trees or shrubs
+
+## Conservation Notes
+
+- Urban development reduces and fragments natural habitat
+- Some species adapt well to human environments, while others decline
+- Native trees and shrubs generally support higher bird diversity than ornamental plantings
+- Window strikes, free-ranging cats, and habitat fragmentation are major threats to urban birds
+
+```{=typst}
+#pagebreak()
+```
+
+::: {.list-table tbl-colwidths="[23,12,26,39]"}
+Birds of Urban and Suburban Habitats
+
+- - Species
+  - Status
+  - Typical Location
+  - Key Clues
+
+- - Canada Goose
+  - 
+  - Parks, ponds, lawns
+  - Large goose; loud honking calls
+
+- - Mallard
+  - 
+  - Urban ponds
+  - Common dabbling duck; males with green head
+
+- - Wild Turkey
+  - R E
+  - Neighborhoods
+  - Large ground bird; often in flocks
+
+- - Mourning Dove
+  - 
+  - Wires, neighborhoods
+  - Soft cooing calls; long pointed tail
+
+- - Rock Pigeon
+  - ★ R E
+  - Buildings, bridges
+  - Pointed wings in flight
+
+- - Chimney Swift
+  - ★ 🎵
+  - Overhead near buildings
+  - Fast sickle-wing flight; twitter and chitter calls
+
+- - Downy Woodpecker
+  - R
+  - Yard trees, parks
+  - Small woodpecker; short bill
+
+- - Hairy Woodpecker
+  - R
+  - Yard trees, parks
+  - Medium woodpecker; longer bill
+
+- - Merlin
+  - ★ 🎵 R?
+  - Neighborhoods, spruce trees
+  - Small fast falcon; rapid wingbeats
+
+- - Blue Jay
+  - R
+  - Mature trees
+  - Loud calls; blue crest and wings
+
+- - American Crow
+  - R
+  - Nearly everywhere
+  - Large all-black bird; cawing calls
+
+- - Black-capped Chickadee
+  - 🎵 R
+  - Trees, feeders
+  - Whistled song, chick-a-dee call
+
+- - Barn Swallow
+  - 
+  - Open areas, buildings
+  - Deeply forked tail; agile low flight
+
+- - White-breasted Nuthatch
+  - R
+  - Mature trees
+  - Climbs head-first down trunks
+
+- - European Starling
+  - ★ R E
+  - Buildings, lawns
+  - Glossy dark plumage; walks while foraging
+
+- - American Robin
+  - ★ 🎵
+  - Lawns, parks
+  - Orange breast; song a series of paired note phrases
+
+- - House Sparrow
+  - ★ R E
+  - Buildings, parking lots
+  - Small brown; strongly associated with people
+
+- - House Finch
+  - ★ R 
+  - Feeders, neighborhoods
+  - Red males; raspy warbling song
+
+- - Chipping Sparrow
+  - ★ 🎵
+  - Lawns, scattered trees
+  - Rufous cap; dry mechanical trill
+
+- - Common Grackle
+  - ★ 
+  - Lawns, parking lots
+  - Long-tailed blackbird with iridescent sheen
+
+- - Northern Cardinal
+  - ★ 🎵 R
+  - Neighborhoods, feeders
+  - Bright red male; loud whistled songs
+
+:::

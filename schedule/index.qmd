@@ -4,6 +4,7 @@ format:
   html:
     toc: true
     page-layout: full
+sort: 2
 ---
 
 Spring 2026 class schedule.

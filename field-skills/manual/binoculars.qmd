@@ -1,0 +1,122 @@
+---
+title: "Binoculars and Spotting Scopes"
+format:
+  html: default
+  typst:
+    columns: 2
+sort: 3
+---
+
+
+## Binocular Basics
+
+Binoculars are one of the most important tools used by birders and field ornithologists. Learning to use them efficiently takes practice, especially when trying to quickly find moving birds.
+
+## Adjusting Binoculars
+
+Before using binoculars in the field:
+
+1. Adjust the neck strap so the binoculars sit comfortably on your chest.
+2. Rotate the eye cups to the lowered position if you wear glasses, or the extended position if you do not wear glasses.
+3. Adjust the interpupillary distance (the distance between the two barrels) until you see a single circular image instead of two overlapping circles.
+4. Cover the right objective lens or close your right eye and focus using the center focus wheel with your left eye.
+5. Then cover the left objective lens or close your left eye and adjust the diopter ring using your right eye.
+
+Once adjusted, most focusing can be done using only the center focus wheel.
+
+## Finding Birds Quickly
+
+A common beginner mistake is losing the bird while raising binoculars.
+
+To improve:
+
+- First look directly at the bird with your eyes.
+- Keep your eyes locked on the bird while raising the binoculars.
+- Bring the binoculars to your eyes without looking down at them.
+- Practice repeatedly on stationary objects before trying fast-moving birds.
+
+If others are trying to show you a bird, avoid scanning through foliage with your binoculars while searching for it. Instead, first locate the bird with your naked eyes, then raise your binoculars to view it. Waiting for the bird to move can often help. A good rule of thumb is that you should already be able to see the bird before trying to put binoculars on it.
+
+## Field Tips
+
+- Keep lens caps on when binoculars are not in use.
+- Avoid swinging binoculars into rocks, vehicles, or railings.
+- In rain or dusty conditions, keep binoculars under your jacket or in a case when possible.
+- Use the neck strap at all times in the field.
+- Do not leave binoculars sitting on the ground or on vehicle seats.
+
+## Cleaning and Care
+
+Binocular lenses scratch easily. In general, avoid cleaning lenses in the field unless it is truly necessary. Dust, sand, and grit can easily scratch lens coatings during cleaning.
+
+If possible, wait until you are indoors at a sink.
+
+### Cleaning at a Sink
+
+A safer way to clean binocular lenses is:
+
+1. Rinse the lenses gently with water to remove dust or grit.
+2. Use a very small amount of dish soap and gently rub the lens surface with clean fingers.
+3. Rinse thoroughly with clean water.
+4. Let excess water drain or lightly blot dry.
+5. Finish with a clean microfiber cloth if needed.
+
+Avoid scrubbing aggressively.
+
+### Cleaning in the Field
+
+If you must clean binoculars in the field:
+
+- First blow off loose dust or grit.
+- Use lens cleaning solution or a small amount of moisture from your breath.
+- Wipe *very gently* with a clean microfiber cloth or lens tissue.
+- Use light strokes across the lens rather than aggressive circular scrubbing.
+
+Never:
+- wipe dry dust or sand across the lens
+- use paper towels, tissues, or clothing sleeves
+- press hard while cleaning
+- touch lenses with dirty fingers
+
+Keep lens caps on whenever binoculars are not being used, and store binoculars in a dry, protected location whenever possible.
+
+## Spotting Scopes
+
+Spotting scopes provide much higher magnification than binoculars and are especially useful for:
+
+- shorebirds
+- waterfowl
+- distant raptors
+- birds on large lakes or wetlands
+
+Spotting scopes are usually mounted on tripods.
+
+## Using a Spotting Scope
+
+When using a spotting scope:
+
+- Start at low magnification before zooming in.
+- Locate the bird with your eyes first.
+- Use the tripod handle to move slowly and smoothly.
+- Refocus carefully after changing magnification.
+
+At high magnification:
+- small movements become exaggerated
+- wind and shaking become more noticeable
+- image brightness may decrease
+
+## Scope Etiquette
+
+When multiple people are using a spotting scope, be courteous to others waiting to look.
+
+Some good rules are:
+
+- When a bird is in the scope, move quickly to look at it before trying to find it with binoculars
+- Each person gets a quick look first, then moves out of the way quickly for the next person
+- After that, people can take longer looks
+- Only after that should people try to take photos through the scope
+- Move carefully around the tripod and make only small adjustments
+
+## Practice Matters
+
+Efficient binocular and spotting scope use improves rapidly with practice. Most experienced birders have spent many hours learning how to quickly locate birds, focus smoothly, and observe details under field conditions.

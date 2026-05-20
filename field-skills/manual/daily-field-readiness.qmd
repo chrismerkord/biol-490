@@ -1,0 +1,82 @@
+---
+title: "Daily Field Readiness"
+format:
+  html: default
+  typst:
+    columns: 2
+sort: 1
+---
+
+Use this checklist before every field session to ensure you are prepared, safe, and ready to participate fully in field activities.
+
+## The Night Before
+
+- Check the weather forecast
+- Lay out field clothes and footwear
+- Fill your water bottle
+- Charge your phone
+- Pack your daily field gear
+- Make sure your field notebook and binoculars are packed
+- Double-check your alarm; set multiple alarms if necessary
+
+## Before You Leave
+
+- Eat breakfast
+- Check your email for last-minute schedule changes
+- Bring your daily field gear
+
+## Required Daily Field Gear
+
+### Observation Equipment
+
+- Binoculars
+- Field guide
+- Smartphone with:
+  - Merlin installed
+  - eBird installed
+  - Charged battery
+- Portable battery pack (recommended)
+
+### Data Recording
+
+- Field notebook
+- Pencil
+- Backup pencil
+
+### Clothing and Personal Gear
+
+- Long pants
+- Field footwear or rubber boots
+- Jacket or additional layers
+- Hat
+- Water bottle
+- Snacks or lunch
+- Sunscreen
+- Insect repellent
+- Daypack or backpack
+
+## Equipment the Instructor Will Bring
+
+- Spotting scope
+- Additional field guides
+- Rubber boots or waders
+- Sampling equipment
+- First aid supplies
+
+Students are not expected to purchase specialized ornithology equipment beyond the required personal field gear listed above.
+
+## Field Expectations
+
+- Arrive on time and prepared
+- Stay with the group
+- Respect wildlife, habitats, and private property
+- Record observations in your field notebook
+- Be prepared for changing weather conditions
+- Participate actively and ask questions
+
+## Emergency Information
+
+- Instructor: Chris Merkord
+- Cell phone: 573-489-8626
+- MSUM Public Safety: 218-477-2449
+- Emergency: Call 911 first in emergencies

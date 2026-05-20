@@ -1,0 +1,84 @@
+---
+title: "Homework: Day 1"
+format:
+  html: default
+  typst:
+    columns: 2
+sort: 1
+number-sections: true
+---
+
+Complete before class tomorrow.
+
+## Read Today's Handouts
+
+Read these handouts before class tomorrow:
+
+- Daily Field Readiness
+- Field Clothing
+- Binoculars and Spotting Scopes
+- Field Notebook
+- Urban and Suburban Habitats.
+
+## Set Up eBird and Merlin
+
+Create or log into an eBird account and install the following apps on your phone:
+
+- [eBird Mobile](https://ebird.org/about/ebird-mobile)
+- [Merlin](https://merlin.allaboutbirds.org/download/)
+
+Download the bird packs for Minnesota and North Dakota.
+
+You do not need to fully understand the apps yet. We will spend more time learning how to use eBird and Merlin during class tomorrow.
+
+Know your eBird username for tomorrow.
+
+## Prepare Your Field Gear
+
+Before going to bed tonight:
+
+- Label your field notebook with:
+  - your name
+  - the course name
+  - contact information (optional but recommended)
+- Pack your daily field gear
+- Put pencils or pens in your bag
+- Charge your phone and other electronics
+- Check the weather forecast and prepare clothing for tomorrow morning
+- Double-check that your alarm is set
+
+```{=typst}
+#colbreak()
+```
+## Complete Your First Personal Bird Checklist
+
+Spend approximately 15–20 minutes observing birds near your home, apartment, dorm, neighborhood, or another nearby location.
+
+Record the checklist in your field notebook, including:
+
+- date
+- locality
+- start and end time
+- species observed
+- approximate number of individuals
+- a few brief behavioral or identification notes
+
+I will check this assignment tomorrow for completion.
+
+## Learn These Common Species
+
+Be able to recognize the following species by appearance tomorrow morning:
+
+- Mourning Dove
+- American Crow
+- American Robin
+- Black-capped Chickadee
+- Chipping Sparrow
+- Common Grackle
+
+Focus on:
+
+- overall appearance
+- size and shape
+- common habitat
+- any distinctive behaviors or sounds

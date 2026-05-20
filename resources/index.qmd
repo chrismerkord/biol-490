@@ -1,6 +1,6 @@
 ---
 title: "Resources"
-format: html
+sort: 9
 ---
 
 Welcome to the resources page. This page contains links to various resources used in the class.
