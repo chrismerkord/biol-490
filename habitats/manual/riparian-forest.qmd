@@ -1,0 +1,182 @@
+---
+title: "Red River Riparian Forest"
+format:
+  html: default
+---
+
+## Habitat Overview
+
+Red River riparian forests form wooded corridors along the Red River of the North and its tributaries in the Fargo–Moorhead area. Regular flooding creates cooler, wetter, and more structurally diverse habitats than the surrounding prairie and agricultural landscapes.
+
+Many riparian areas are now protected within a connected system of parks and natural areas along the river. Some of these sites were formerly residential neighborhoods purchased after major floods, especially the 1997 Red River Flood.
+
+Riparian forests are especially important during migration, when wooded river corridors can concentrate large numbers of migrant songbirds. These habitats also support many breeding woodland species during summer.
+
+## Key Habitat Features
+
+-    Floodplain forests shaped by seasonal flooding
+-    Cottonwood, ash, boxelder, willow, elm, and bur oak
+-    Dense shrubs, forest edges, and canopy gaps
+-    Snags, fallen logs, oxbows, and seasonally flooded depressions
+-    Woodland corridors within urban and agricultural landscapes
+
+## Field Tips
+
+-    Many birds are easier to hear than see in dense vegetation.
+-    Watch edges, canopy openings, and river crossings for migrants.
+-    Move slowly and pause often to detect movement and sound.
+-    Floodplain trails and low areas may be muddy or flooded after rain or spring flooding. Waterproof boots are often useful.
+-    Mosquitoes and ticks can be common later in the season.
+
+## Conservation Notes
+
+Riparian forests in the Red River Valley have been heavily altered by agriculture, urban development, flooding, and invasive species. Remaining woodland corridors are important habitat for migratory birds and urban wildlife.
+
+Local restoration efforts include the Urban Woods and Prairies Initiative led by [National Audubon Society]{.underline} Great Plains. This project restores prairie, wetland, and riparian habitats across more than 650 acres in Fargo–Moorhead while also improving flood resilience, recreation, outdoor education, and water quality.
+
+```{=typst}
+#pagebreak()
+```
+::: {.list-table tbl-colwidths="[23,12,26,39]"}
+Birds of Urban and Suburban Habitats
+
+-   
+
+    -   Species
+    -   Status
+    -   Typical Location
+    -   Key Clues
+
+-   
+
+    -   Wood Duck
+
+-   
+
+    -   Mourning Dove
+    -   
+    -   Wires, neighborhoods
+    -   Soft cooing calls; long pointed tail
+
+-   
+
+    -   Yellow-bellied Sapsucker
+
+-   
+
+    -   Red-bellied Woodpecker
+
+-   
+
+    -   Downy Woodpecker
+    -   R
+    -   Yard trees, parks
+    -   Small woodpecker; short bill
+
+-   
+
+    -   Hairy Woodpecker
+    -   R
+    -   Yard trees, parks
+    -   Medium woodpecker; longer bill
+
+-   
+
+    -   Pileated Woodpecker
+
+-   
+
+    -   Least Flycatcher
+
+-   
+
+    -   Great-crested Flycatcher
+
+-   
+
+    -   Blue Jay
+    -   R
+    -   Mature trees
+    -   Loud calls; blue crest and wings
+
+-   
+
+    -   American Crow
+    -   R
+    -   Nearly everywhere
+    -   Large all-black bird; cawing calls
+
+-   
+
+    -   Black-capped Chickadee
+    -   🎵 R
+    -   Trees, feeders
+    -   Whistled song, chick-a-dee call
+
+-   
+
+    -   Tree Swallow
+    -   
+    -   Open areas, buildings
+    -   Deeply forked tail; agile low flight
+
+-   
+
+    -   White-breasted Nuthatch
+    -   R
+    -   Mature trees
+    -   Climbs head-first down trunks
+
+-   
+
+    -   Northern House Wren
+
+-   
+
+    -   Gray Catbird
+
+-   
+
+    -   Swainson's Thrush
+
+-   
+
+    -   American Robin
+    -   ★ 🎵
+    -   Lawns, parks
+    -   Orange breast; song a series of paired note phrases
+
+-   
+
+    -   House Finch
+    -   ★ R
+    -   Feeders, neighborhoods
+    -   Red males; raspy warbling song
+
+-   
+
+    -   American Goldfinch
+
+-   
+
+    -   Chipping Sparrow
+    -   ★ 🎵
+    -   Lawns, scattered trees
+    -   Rufous cap; dry mechanical trill
+
+-   
+
+    -   Song Sparrow
+
+-   
+
+    -   American Redstart
+
+-   
+
+    -   Northern Yellow Warbler
+
+-   
+
+    -   Rose-breasted Grosbeak
+:::
