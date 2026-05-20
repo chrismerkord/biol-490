@@ -1,5 +1,6 @@
 ---
 title: "Resources"
+description: "Additional birding, identification, and field ecology resources useful throughout the course."
 sort: 9
 ---
 

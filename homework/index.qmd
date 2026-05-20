@@ -1,5 +1,6 @@
 ---
 title: "Homework"
+description: "Homework assignments, readings, and other work to complete outside of class meetings."
 sort: 10
 listing:
   contents:

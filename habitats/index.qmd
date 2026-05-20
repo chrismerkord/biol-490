@@ -1,5 +1,6 @@
 ---
 title: "Habitats"
+description: "Overviews of regional habitats and the bird species commonly associated with each one."
 sort: 5
 listing:
   contents:

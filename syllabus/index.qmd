@@ -1,5 +1,6 @@
 ---
 title: "Course Syllabus"
+description: "Course description, policies, expectations, grading information, and university policies."
 format:
   html:
     toc: true

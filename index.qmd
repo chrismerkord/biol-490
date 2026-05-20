@@ -13,7 +13,7 @@ listing:
     - "data-sheets/index.qmd"
     - "resources/index.qmd"
   sort: "sort"
-  type: grid
+  type: list
   image-placeholder: images/placeholder.png
 ---
 

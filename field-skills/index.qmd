@@ -1,5 +1,6 @@
 ---
 title: "Field Skills"
+description: "Practical field skills for working outdoors during birding and field research activities."
 sort: 3
 listing:
   contents:

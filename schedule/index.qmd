@@ -1,5 +1,6 @@
 ---
 title: "Class Schedule"
+description: "Daily class schedule including field activities, meeting locations, and assignments."
 format:
   html:
     toc: true

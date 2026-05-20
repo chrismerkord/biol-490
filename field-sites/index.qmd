@@ -1,5 +1,6 @@
 ---
 title: "Field Sites"
+description: "Information about field trip locations, including habitats, target species, and site-specific notes."
 sort: 6
 ---
 
