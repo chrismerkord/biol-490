@@ -1,5 +1,7 @@
 ---
 title: "Urban and Suburban Habitats"
+format:
+  html: default
 ---
 
 ## Habitat Overview
