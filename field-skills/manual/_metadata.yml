@@ -1,6 +1,7 @@
 metadata-files:
   - ../../_manual.yml
 format: 
+  html: default
   typst:
     template-partials:
       - ../../tlm-styles/typst/partials/page.typ
