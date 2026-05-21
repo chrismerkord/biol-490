@@ -1,5 +1,6 @@
 ---
 title: "Homework: Day 1"
+description: "Set up eBird and Merlin, prepare field gear, complete a short personal bird checklist, learn several common species, and review the introductory field skills handouts."
 format:
   html: default
   typst:
