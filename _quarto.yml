@@ -19,23 +19,43 @@ website:
         text: Syllabus
       - href: schedule/index.qmd
         text: Schedule
-      - href: index.qmd#learning-modules
-        text: Learning Modules
-
+      - href: homework/index.qmd
+        text: Homework
+      - text: Field Manual
+        menu:
+          - href: field-skills/index.qmd
+            text: Field Skills
+          - href: bird-identification/index.qmd
+            text: Bird Identification
+          - href: habitats/index.qmd
+            text: Habitats
+          - href: field-sites/index.qmd
+            text: Field Sites
+          - href: field-methods/index.qmd
+            text: Field Methods
+          - href: data-sheets/index.qmd
+            text: Data Sheets
+      - href: resources/index.qmd
+        text: Resources
+      
   sidebar:
     style: "docked"
     search: true
+    collapse-level: 0
     contents: 
       - href: index.qmd
         text: Home
       - href: syllabus/index.qmd
       - href: schedule/index.qmd
-      - href: field-skills/index.qmd
-      - href: bird-identification/index.qmd
-      - href: habitats/index.qmd
-      - href: field-sites/index.qmd
-      - href: field-methods/index.qmd
-      - href: data-sheets/index.qmd
+      - href: homework/index.qmd
+      - section: "Field Manual"
+        contents:
+        - href: field-skills/index.qmd
+        - href: bird-identification/index.qmd
+        - href: habitats/index.qmd
+        - href: field-sites/index.qmd
+        - href: field-methods/index.qmd
+        - href: data-sheets/index.qmd
       - href: resources/index.qmd
 
 format:
