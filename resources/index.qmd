@@ -13,12 +13,12 @@ For now, this page is under construction. Please check back later for updates.
 List of birds students will learn (subject to change).
 
 | Species | Identify visually | Vocalizations to know |
-|----|----|----|
-| Canada Goose | Yes | Honk |
+|------------------------|------------------------|------------------------|
+| Canada Goose | Yes | Honk (typical) |
 | Trumpeter Swan | Yes |  |
 | Wood Duck | M only |  |
 | Blue-winged Teal | M only |  |
-| Mallard | M only |  |
+| Mallard | M only | Male Quack |
 | Hooded Merganser | M only |  |
 | Ring-necked Pheasant | Yes | Keek-kuk |
 | Greater Prairie-Chicken | Yes | Ooh-loo-woo |
@@ -34,13 +34,14 @@ List of birds students will learn (subject to change).
 | Upland Sandpiper | Yes | Song |
 | Marbled Godwit | Yes |  |
 | Spotted Sandpiper | Yes |  |
+| American Avocet | Yes |  |
 | Great Blue Heron | Yes |  |
 | Turkey Vulture | Yes |  |
 | Northern Harrier | M and F |  |
 | Cooper's Hawk | Yes |  |
 | Red-tailed Hawk | Yes |  |
 | Great Horned Owl | Yes |  |
-| Yellow-bellied Sapsucker | M and F | Drum |
+| Yellow-bellied Sapsucker | M and F |  |
 | Red-bellied Woodpecker | M and F | Kwirr |
 | Downy Woodpecker | M and F | Whinny |
 | Hairy Woodpecker | M and F | Rattle |
@@ -63,15 +64,15 @@ List of birds students will learn (subject to change).
 | Barn Swallow | Yes |  |
 | Cliff Swallow | Yes |  |
 | White-breasted Nuthatch (Eastern) | Yes | Slow Song; Fast Song; Yank (typical) |
-| House Wren | Yes | Song |
+| Northern House Wren | Yes | Song |
 | Sedge Wren | Yes | Song |
 | European Starling | Yes |  |
 | Gray Catbird | Yes | Mew |
-| Brown Thrasher | Yes | Song |
+| Brown Thrasher | Yes |  |
 | Eastern Bluebird | M only |  |
 | American Robin | Yes | Song |
 | Cedar Waxwing | Yes | Seet |
-| House Sparrow | Yes |  |
+| House Sparrow | Yes | Song (Chirp) |
 | House Finch | M only |  |
 | American Goldfinch | Yes | Flight call |
 | Grasshopper Sparrow | Yes | Song |
@@ -79,19 +80,19 @@ List of birds students will learn (subject to change).
 | Clay-colored Sparrow | Yes | Song |
 | Vesper Sparrow | Yes |  |
 | LeConte's Sparrow | Yes | Song |
-| Savannah Sparrow | Yes | Song |
+| Savannah Sparrow | Yes |  |
 | Song Sparrow | Yes | Song |
 | Yellow-headed Blackbird | M only |  |
 | Bobolink | M only | Song |
 | Western Meadowlark | Yes | Song |
 | Baltimore Oriole | M only | Song \[various types\] |
 | Red-winged Blackbird | M and F | Male song |
-| Brown-headed Cowbird | M only | Gurgle Song |
+| Brown-headed Cowbird | M only |  |
 | Common Grackle | M only |  |
 | Common Yellowthroat | M only | Song (triplet series) |
 | American Redstart | M and F | Song (First-category); Song (Second-category) |
-| Yellow Warbler (Northern) | Yes | Song (First-category) |
-| Scarlet Tanager | Yes | Song |
+| Northern Yellow Warbler | Yes | Song (First-category) |
+| Scarlet Tanager | Yes |  |
 | Northern Cardinal | M and F | Song (one simple series); Song (2 simple series) |
 | Rose-breasted Grosbeak | M and F | Song; Eep |
-| Indigo Bunting | M only | Song |
+| Indigo Bunting | M only |  |
