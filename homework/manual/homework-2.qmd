@@ -1,0 +1,90 @@
+---
+title: "Homework: Day 2"
+description: "Read the Red River Riparian Forest handout, join the course eBird Trip Report, and review and edit shared eBird checklists from Days 1 and 2."
+format:
+  html: default
+  typst:
+    columns: 2
+sort: 1
+number-sections: true
+---
+
+## Read Today's Handouts
+
+::: {.content-visible when-format="html"}
+Read these handouts before class tomorrow:
+:::
+
+-   Habitats: Red River Riparian Forest
+-   Field skills: Editing and Sharing eBird Checklists
+
+## Join the Course Trip Report on eBird
+
+::: {.content-visible when-format="html"}
+After the instructor adds you to the course Trip Report:
+:::
+
+-   Check your email for an invitation from eBird
+-   Click Accept to join the Trip Report
+-   Note: Check the email account associated with your eBird account, which may be different from your university email address.
+
+To view the Trip Report:
+
+-   On the eBird website:
+    -   Log in to your eBird account
+    -   Go to My eBird \> Trip Reports
+    -   Open the course Trip Report
+-   On eBird Mobile:
+    -   Go to Checklists
+    -   Tap the Trip Reports button at the bottom of the screen
+    -   This will open the Trip Reports page in a web browser
+    -   Log in to your eBird account if prompted
+    -   Open the course Trip Report
+
+::: {.content-visible when-format="html"}
+For more information, see: [eBird Trip Reports : Help Center](https://support.ebird.org/en/support/solutions/articles/48001201565-ebird-trip-reports).
+:::
+
+## Accept Shared eBird Checklists
+
+Several eBird checklists from Days 1 and 2 have been shared with you.
+
+Accept the shared checklists either:
+
+-   By clicking Accept in each email from eBird
+-   Or by going to My eBird \> Manage My Checklists
+
+::: {.content-visible when-format="html"}
+For more information, see [Accepting Shared Checklists](../../field-skills/manual/editing-and-sharing-ebird-checklists.qmd#accepting-shared-checklists)
+:::
+
+## Review and Edit Your Checklists
+
+Each checklist should reflect only the birds that *you personally* observed.
+
+Shared checklists can and should be edited individually after they are accepted.
+
+Review each checklist carefully:
+
+1.  In eBird Mobile, tap the "Checklists" button at the bottom of the screen and select the "Submitted" tab. You may need to pull down on the list to refresh it after accepting new checklists
+2.  Click a checklist to open it
+3.  Click the pencil icon to edit the checklist
+4.  Check the species list and counts, comparing against your field notebook
+5.  Add any species that you personally observed but are missing from the checklist
+6.  Remove any species that you did not personally observe
+7.  Tap "Review" and then "Submit" to save your changes
+
+Also review the checklist metadata. If any of the metadata is incorrect, contact the original submitter of the checklist so they can change it.
+
+::: {.content-visible when-format="html"}
+For more detailed instructions on editing checklists, see:
+
+-   [Editing eBird Checklists](../../field-skills/editing-and-sharing-ebird-checklists.qmd#editing-ebird-checklists).
+-   [Editing a Shared Checklist](../../field-skills/editing-and-sharing-ebird-checklists.qmd#editing-a-shared-checklist).
+:::
+
+:::: {.content-visible when-format="typst"}
+::: callout-tip
+The course website versions of this homework and its associated handouts include helpful links and images that are not included in the PDF version.
+:::
+::::

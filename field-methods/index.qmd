@@ -1,6 +1,6 @@
 ---
 title: "Field Methods"
 description: "Introductions to common ornithological field methods, including bird surveys, mapping, and bird capture."
-sort: 7
+sort: 8
 ---
 

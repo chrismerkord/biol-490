@@ -5,6 +5,7 @@ listing:
   contents:
     - "syllabus/index.qmd"
     - "schedule/index.qmd"
+    - "homework/index.qmd"
     - "field-skills/index.qmd"
     - "bird-identification/index.qmd"
     - "habitats/index.qmd"
