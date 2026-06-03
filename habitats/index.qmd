@@ -9,3 +9,7 @@ listing:
   type: grid
   image-placeholder: ../images/placeholder.png
 ---
+
+A habitat is the environment where an organism lives, including the physical conditions, vegetation, water, food resources, and other features that influence its survival and behavior. Habitats can be described at many scales, from broad regional patterns such as prairie or eastern deciduous forest to smaller features such as cattail marshes, mudflats, woodland edges, or river floodplains.
+
+Understanding habitat is one of the most useful skills in field ornithology. Habitat knowledge helps predict which species are likely to occur in an area, where to search for them, how to detect them, and when certain birds are most likely to be present during migration or breeding season. Many bird species are strongly associated with particular habitats, making habitat an important clue for identification and field observation.
